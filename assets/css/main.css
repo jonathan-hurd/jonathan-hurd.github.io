@@ -2102,6 +2102,7 @@ header p {
   color: #999;
   margin: 0 0 1.5em 0;
   position: relative;
+  font-weight: bold;
 }
 
 header h2 + p {
@@ -3172,6 +3173,8 @@ img.avatar {
   opacity: 1;
   position: relative;
   z-index: 1;
+  font-size: 1.25rem;
+  color: #fcfcfc;
 }
 
 #header .inner .actions {
