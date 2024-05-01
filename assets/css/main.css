@@ -3288,6 +3288,7 @@ body.is-preload #header:after {
 
 #footer header p {
   color: #ffffff;
+  margin-bottom: 0.5rem;
 }
 
 #footer header.major:after {
@@ -3356,6 +3357,7 @@ body.is-preload #header:after {
 
 #footer .icons {
   margin: 0;
+  margin-top: 1rem;
 }
 
 #footer .copyright {
