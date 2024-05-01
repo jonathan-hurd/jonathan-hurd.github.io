@@ -3290,7 +3290,8 @@ body.is-preload #header:after {
 }
 
 #footer header p {
-  color: #ffffff;
+  color: #fcfcfc;
+  font-weight: 200;
   margin-bottom: 0.5rem;
 }
 
