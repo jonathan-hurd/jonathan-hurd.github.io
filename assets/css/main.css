@@ -2919,6 +2919,20 @@ button:disabled,
   background: #fcfcfc;
 }
 
+#pinniped-link {
+  -moz-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+  -webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+  -ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+  transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+  color: #67a8b8;
+  text-decoration: none;
+}
+
+#pinniped-link:hover {
+  border-bottom-color: transparent !important;
+  color: #555;
+}
+
 .main.style2 {
   background-color: #333;
   color: rgba(255, 255, 255, 0.75);
